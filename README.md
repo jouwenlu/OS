@@ -1,5 +1,7 @@
 # Penn OS
 
+*Note: This is a copy of the original repository we worked on, which has a different repository owner. Thus, there are no additional branches and commits.*
+
 Written by Jio Jeong (`jiojeong`), Reifon Chiu (`rechiu`), Rowena Lu (`jouwenlu`), and Sumukh Govindaraju (`sumig`).
 
 ### Usage Instructions
